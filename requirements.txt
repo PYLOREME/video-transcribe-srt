@@ -1,0 +1,8 @@
+# 動画文字起こしシステム - Python 依存パッケージ
+# インストール: pip install -r requirements.txt
+
+# ElevenLabs エンジン用（推奨）
+requests
+
+# Whisper エンジン用（オフライン利用時）
+# pip install openai-whisper

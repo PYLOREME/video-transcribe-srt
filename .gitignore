@@ -1,0 +1,29 @@
+# API キー・環境変数
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# 入出力（動画・生成 SRT）
+input/
+output/
+
+# 大容量メディア
+*.MP4
+*.mp4
+*.mov
+*.MOV
+
+# 生成された字幕
+*.srt
+
+# エディタ
+.vscode/
+.idea/
